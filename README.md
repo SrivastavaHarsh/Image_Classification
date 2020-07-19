@@ -5,9 +5,9 @@ This repository (written in Python) aims to classify images using global feature
   
 
 # Descriptors used :
-  For shape : Hu Moments
-  For texture : Local Binary Groups
-  For colour : Color Histogram
+  For shape : Hu Moments\n
+  For texture : Local Binary Groups\n
+  For colour : Color Histogram\n
   
   The features extacted from the individual descriptors are simply added together to get the feature vector for an image.
  
